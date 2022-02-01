@@ -10,4 +10,4 @@ RUN apt-get update && \
 RUN pip install virtualenv
 RUN virtualenv --seeder pip /venv
 
-RUN pip install --no-cache-dir "cyvcf2<0.10.0"
+RUN pip install --no-cache-dir cyvcf2
