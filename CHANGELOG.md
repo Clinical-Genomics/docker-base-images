@@ -1,4 +1,7 @@
-# [1.0.1]
+# [1.1] 2022-02-01
+- Added a `python3.8-slim-bedtools-venv` Dockerfile
+
+# [1.0.1] 2022-02-01
 - Unfreeze cyvcf2 versions
 
 # [1.0.0] -
