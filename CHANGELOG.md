@@ -1,5 +1,5 @@
 # []
-- Added a `python3.8-venv-d4tools` Dockerfile
+- Added a `d4tools` Dockerfile
 - Added a `python3.8-venv-pyd4` Dockerfile
 
 # [1.1] 2022-02-01
