@@ -1,3 +1,7 @@
+# [1.4] 2023-09-27
+- Added a `lsynd` Dockerfile
+- Added a `python3.11-venv` Dockerfile
+
 # [1.3] 2023-08-11
 - Added a `python3.8-slim-bullseye-venv` Dockerfile
 
