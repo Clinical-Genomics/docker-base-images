@@ -1,3 +1,6 @@
+# [1.5] 2023-11-08
+- Added a `python3.11-miniconda` Dockerfile
+
 # [1.4] 2023-09-27
 - Added a `lsynd` Dockerfile
 - Added a `python3.11-venv` Dockerfile
