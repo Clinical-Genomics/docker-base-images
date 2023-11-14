@@ -1,6 +1,6 @@
 # [1.6] 2023-11-14
-### Changed
-- Changed image `python3.8-slim-bedtools-venv` to `python3.8-slim-bullseye-bedtools-venv`
+### Added
+- Added a `python3.8-slim-bullseye-bedtools-venv` image
 
 # [1.5] 2023-11-08
 ### Added
