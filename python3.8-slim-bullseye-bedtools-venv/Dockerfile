@@ -11,7 +11,7 @@ RUN apt-get update && \
 
 # Download and install bedtools static binary
 RUN cd /usr/local/bin && \
-    wget -q https://github.com/arq5x/bedtools2/releases/download/v2.31.1/bedtools.static.binary && \
+    wget -q https://github.com/arq5x/bedtools2/releases/download/v2.30.0/bedtools.static.binary && \
     mv bedtools.static.binary bedtools && \
     chmod +x bedtools
 
