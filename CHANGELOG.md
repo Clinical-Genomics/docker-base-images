@@ -1,3 +1,7 @@
+# [unreleased]
+### Fixed
+- Installation step of d4tools in python3.11-venv-pyd4
+
 # [1.6] 2023-11-14
 ### Added
 - Added a `python3.8-slim-bullseye-bedtools-venv` image
