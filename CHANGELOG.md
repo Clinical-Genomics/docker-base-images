@@ -1,6 +1,7 @@
 # [unreleased]
 ### Added
 - `python3.11-venv-d4tools` Dockerfile - not containing the pyd4 library
+- Use d4tools 0.3.10 in `python3.11-venv-d4tools` Dockerfile - install via git with tag
 ### Fixed
 - Installation step of d4tools in python3.11-venv-pyd4
 
