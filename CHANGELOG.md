@@ -6,6 +6,7 @@
 - Modified d4tools-based images to use GitHub branch main when cargo installs d4tools 
 ### Fixed
 - Installation step of d4tools in python3.11-venv-pyd4
+- "GLIBC_2.x not found" error in d4tools image
 
 # [1.6] 2023-11-14
 ### Added
