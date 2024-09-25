@@ -4,7 +4,7 @@
 
 FROM rust:latest AS builder
 
-RUN cargo install d4tools
+RUN cargo install --git https://github.com/38/d4-format.git d4tools --branch master
 
 #########
 # FINAL #
