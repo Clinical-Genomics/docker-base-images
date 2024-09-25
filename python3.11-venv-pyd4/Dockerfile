@@ -22,7 +22,7 @@ RUN groupadd --gid 1000 worker && useradd -g worker --uid 1000 --shell /usr/sbin
 
 # Install d4tools
 RUN echo 'location' >> ~/.curlrc # https://github.com/38/d4-format/pull/77#issuecomment-2044438359
-RUN cargo install d4tools --root /home/worker/libs/d4tools
+RUN cargo install --git https://github.com/38/d4-format.git d4tools --branch master --root /home/worker/libs/d4tools
 ENV PATH="/home/worker/libs/d4tools/bin:${PATH}"
 
 ENV PATH="/venv/bin:$PATH"
