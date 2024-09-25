@@ -5,7 +5,6 @@ A collection of useful Dockerfiles to be used as base images for more advanced D
 
 ```docker build -t <name-of-image> --platform linux/amd64 ```
 
-docker build 
 
 ### Tag an image
 
