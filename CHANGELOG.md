@@ -2,6 +2,7 @@
 ### Added
 - `python3.11-venv-d4tools` Dockerfile - not containing the pyd4 library
 - Instructions on how to build/tag/push the images to our Docker Hub
+- python3.12-venv Dockerfile, based on python:3.12-slim-bookworm
 ### Changed
 - Issue templates
 - Modified d4tools-based images to use GitHub branch master when cargo installs d4tools 
