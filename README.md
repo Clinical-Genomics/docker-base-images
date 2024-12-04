@@ -3,7 +3,7 @@ A collection of useful Dockerfiles to be used as base images for more advanced D
 
 ### Build an image
 
-```docker build -t <name-of-image> --platform linux/amd64 ```
+```docker build -t <name-of-image> --platform linux/amd64 .```
 
 
 ### Tag an image
